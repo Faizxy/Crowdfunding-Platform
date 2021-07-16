@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/SSM-idea%20IDE-blue)
 
 这是一个SSM框架的众筹平台项目，可作为毕业设计来使用
-在IDEA运行也可以是修改后的Maven项目，适合作为毕业设计来参考使用,具体代码网址是：链接: 暂无 提取码: 1kvu 复制这段内容后打开百度网盘
+在IDEA运行也可以是修改后的Maven项目，适合作为毕业设计来参考使用,具体代码网址是：链接: 链接: https://pan.baidu.com/s/1FUBSZPT-fpiTf8QFH0_CFQ 提取码: jvjn 复制这段内容后打开百度网盘
 
 具体内容及项目部署请添加：QQ2781261354
 
